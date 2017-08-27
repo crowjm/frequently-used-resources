@@ -16,7 +16,7 @@ A collection I use and/or send to others frequently.
 * [Just Enough Research (Video)](https://medium.com/research-things/just-enough-research-b253a32e8d28)
 * [Never Show A Design You Haven’t Tested On Users](https://alistapart.com/article/never-show-a-design-you-havent-tested-on-users)
 
-##Design
+## Design
 * [Everybody Hurts: Content for Kindness](http://www.sarawb.com/2015/09/10/everybody-hurts-content-for-kindness/)
 * [I Don't Like It](https://alistapart.com/column/i-dont-like-it)
 * [Illustrating a More Human Brand Part 1](https://medium.com/dropbox-design/illustrating-a-more-human-brand-part-1-e1cfe3c28d9)
