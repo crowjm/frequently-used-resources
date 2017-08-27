@@ -26,6 +26,7 @@ A collection I use and/or send to others frequently.
 * [Practical Color Theory for People Who Code](https://tallys.github.io/color-theory/)
 * [Style Tiles](http://styletil.es/)
 * [Summary of Key Typography Rules](http://practicaltypography.com/summary-of-key-rules.html)
+* [Draplin Logo Design Challenge (video)](https://www.youtube.com/watch?v=zOPA0NaeTBk)
 
 ## Style Guides and Design Systems
 * [Creating Style Guides](https://alistapart.com/article/creating-style-guides)
